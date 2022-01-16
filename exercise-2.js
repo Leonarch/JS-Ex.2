@@ -4,7 +4,6 @@ function canPlay() {
   if (true) {
     personName = 'George'; 
   }
-
   personName += ' plays football';
 
   console.log(personName);
